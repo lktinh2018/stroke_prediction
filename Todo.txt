@@ -1,0 +1,9 @@
+1. Visualize data.
+2. Training XGBoost.
+3. Test XGBoost.
+4. Training TabTransformer.
+5. Test TabTransformer.
+6. Choose metrics (Precision, Recall, F1 Score).
+7. Benchmark with metrics (Inputs are).
+
+
